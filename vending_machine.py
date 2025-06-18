@@ -9,4 +9,5 @@
 # Total cost
 # Skills practiced: loops, input(), conditionals, lists/dictionaries, sum(), print formatting
 
-print("This is my vending machine application")
+print("Vending machine application")
+
